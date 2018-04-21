@@ -1,6 +1,6 @@
 # Site settings
-title: "Caption write"
-description: "A place for Caption."
+title: "David Resume Template"
+description: "A resume template for David and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
